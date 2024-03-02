@@ -1,0 +1,6 @@
+r = input()
+try:
+    num = int(r)
+    print(num)
+except ValueError:
+    pass
